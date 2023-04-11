@@ -2,10 +2,6 @@
 
 Repository for Neurolab Open Hardware platform.
 
-[![Build Status](https://travis-ci.org/fossasia/neurolab-hardware.svg?branch=master)](https://travis-ci.org/fossasia/neurolab-hardware)
-[![Gitter](https://badges.gitter.im/fossasia/neurolab.svg)](https://gitter.im/fossasia/neurolab?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Mailing List](https://img.shields.io/badge/Mailing%20List-FOSSASIA-blue.svg)](https://groups.google.com/forum/#!forum/pslab-fossasia)
-[![Twitter Follow](https://img.shields.io/twitter/follow/pslabio.svg?style=social&label=Follow&maxAge=2592000?style=flat-square)](https://twitter.com/pslabio)
 
 We are developing a neuro-device to collect brainwaves as a headband with integrated electronics. This repository holds the PCB schematics and layouts for the Neurolab Hardware. 
 
@@ -13,15 +9,7 @@ Front Side               | Back Side
  ----------------------- | ---------------------------
 ![](docs/images/Top.png) | ![](docs/images/Bottom.png)
 
-## Buy
 
-* You can get the device in future from the [FOSSASIA Shop](https://fossasia.com).
-* More resellers will be listed on the [PSLab website](https://pslab.io/shop/).
-
-## Communication
-
-* The Neurolab [chat channel is on Gitter](https://gitter.im/fossasia/neurolab).
-* Please also join us on the [Mailing List](https://groups.google.com/forum/#!forum/pslab-fossasia).
 
 ## Goal and Roadmap
 The goal of the Neurolab project is to develop an easy to use open hardware measurement headset device for brain waves that can be plugged into an Android smartphone and a software application and enables us to understand our brains better.
